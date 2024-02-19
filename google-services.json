@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435417882394",
+    "project_id": "nyayarakshak-b3a04",
+    "storage_bucket": "nyayarakshak-b3a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435417882394:android:bf35382c4d64f5a55516a3",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD29_8edAieTriXWjx1-zb7I0X7bKZaR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
